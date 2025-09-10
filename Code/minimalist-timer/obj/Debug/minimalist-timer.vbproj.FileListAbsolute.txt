@@ -1,0 +1,16 @@
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist-timer.vbproj.AssemblyReference.cache
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist_timer.Main.resources
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist_timer.Resources.resources
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist-timer.vbproj.GenerateResource.cache
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist-timer.vbproj.CoreCompileInputs.cache
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\bin\Debug\minimalist-timer.exe.config
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\bin\Debug\minimalist-timer.exe
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\bin\Debug\minimalist-timer.pdb
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\bin\Debug\minimalist-timer.xml
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist-timer.exe
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist-timer.xml
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist-timer.pdb
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist-timer.exe.manifest
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\bin\Debug\minimalist-timer.exe.manifest
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\bin\Debug\minimalist-timer.application
+C:\Users\Kim\source\repos\minimalist-timer\minimalist-timer\obj\Debug\minimalist-timer.application
